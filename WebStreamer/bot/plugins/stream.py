@@ -71,7 +71,7 @@ async def private_receive_handler(c: Client, m: Message):
             file_name = f"{m.audio.file_name}"
 
         msg_text ="""
-<i><u><b>Your Link Generated !</b></u></i>\n
+<u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u>\n
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <i>{}</i>\n
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>\n
 <b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <i>{}</i>\n
