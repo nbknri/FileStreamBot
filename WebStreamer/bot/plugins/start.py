@@ -30,8 +30,9 @@ ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : NBKlInkBot</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/nbknri'>3.0.1</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/avipatilpro/FileStreamBot'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
-<b>🔸GitHub : <a href='https://GitHub.com/avipatilpro'>Fᴏʟʟᴏᴡ</a></b>\n
+<b>🔸GitHub : <a href='https://GitHub.com/nbknri'>Fᴏʟʟᴏᴡ</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AvishkarPatil'>Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ</a></b>\n
+<b>🔹Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href='https://telegram.me/nbknri'>NBKNRI</a></b>\n
 <b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://telegram.me/nbknri'>[ 11-ᴊᴜʟʏ-21 ] 04:35 PM</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
